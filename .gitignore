@@ -2,7 +2,7 @@
 
 password.txt
 
-.env*.local
+.env.local
 
 # dependencies
 /node_modules
